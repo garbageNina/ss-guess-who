@@ -4,7 +4,7 @@
 
 [Play the game online now](https://wearsnomask.github.io/utdr-guess-who/) or [download it from the project releases](https://github.com/wearsnomask/utdr-guess-who/releases/latest) (you can also download previous versions of it here if you'd prefer). Note that the downloaded version will likely trigger a security warning about installing an untrusted program on your system; you can always just play the online version if you want to be safe.
 
-**NOTE:** Downloadable versions are still under development and are not all working properly yet.
+**NOTE:** Downloadable versions haven't been fully tested yet. If you find a bug, please let me know by opening an issue.
 
 
 ## About
